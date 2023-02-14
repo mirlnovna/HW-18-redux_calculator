@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HW-18-redux_calculator/static/css/main.80e9fae3.css",
+    "main.js": "/HW-18-redux_calculator/static/js/main.f0ff9889.js",
+    "index.html": "/HW-18-redux_calculator/index.html",
+    "main.80e9fae3.css.map": "/HW-18-redux_calculator/static/css/main.80e9fae3.css.map",
+    "main.f0ff9889.js.map": "/HW-18-redux_calculator/static/js/main.f0ff9889.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80e9fae3.css",
+    "static/js/main.f0ff9889.js"
+  ]
+}
